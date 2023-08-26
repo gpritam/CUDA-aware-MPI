@@ -1,0 +1,15 @@
+*.log
+*.gz
+*.cb2
+*.cb
+*.zip
+*.aux
+*.tec
+*.vtk
+*.jpg
+*.jpeg
+*.png
+*~
+*.o
+*run
+documents/
